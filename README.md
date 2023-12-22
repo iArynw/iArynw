@@ -7,7 +7,7 @@ Web Developer
 I'm a frontend enthusiast exploring the exciting world of Fullstack Web Development, currently adding backend skills to my toolkit for a well-rounded experience.
 
 * 🌍  I'm based in IRAN
-* 🖥️  See my portfolio at [SezarCode.ir](http://sezarcode.ir)
+* 🖥️  See my portfolio at [Soon..](https://github.com/ArianSzar)
 * ✉️  You can contact me at [arianszar@gmail.com](mailto:arianszar@gmail.com)
 * 🧠  I'm learning React.js & Next.js
 * 🤝  I'm open to collaborating on Web Projects
@@ -26,12 +26,8 @@ I'm a frontend enthusiast exploring the exciting world of Fullstack Web Developm
 
 ### Badges
 
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/ArianSzar"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ArianSzar&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 <a href="https://github.com/ArianSzar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArianSzar&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-### Support Me
-
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/arianszar"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-</ul>
