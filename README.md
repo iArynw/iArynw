@@ -7,7 +7,7 @@ Full-stack Web Developer
 I'm a frontend enthusiast exploring the exciting world of Fullstack Web Development, currently adding backend skills to my toolkit for a well-rounded experience.
 
 * 🌍  I'm based in IRAN
-* * 🖥️  my portfolio [Soon](http://github.com/arianszar)
+* 🖥️  my portfolio [Soon](http://github.com/arianszar)
 * ✉️  You can contact me at [arianszar@gmail.com](mailto:arianszar@gmail.com)
 * 🧠  I'm learning React.js & Next.js
 * 🤝  I'm open to collaborating on Web Projects
