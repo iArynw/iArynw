@@ -1,7 +1,7 @@
 Hi 👋 My name is Arian
 ======================
 
-Web Developer
+Full-stack Web Developer
 -------------
 
 I'm a frontend enthusiast exploring the exciting world of Fullstack Web Development, currently adding backend skills to my toolkit for a well-rounded experience.
