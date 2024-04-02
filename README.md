@@ -8,7 +8,7 @@ I'm a frontend enthusiast exploring the exciting world of Fullstack Web Developm
 
 * 🌍  I'm based in IRAN
 * 🖥️  my portfolio [Soon](http://github.com/iarynw)
-* ✉️  You can contact me at [arianszar@gmail.com](mailto:i4rynw@gmail.com)
+* ✉️  You can contact me at [i4rynw@gmail.com](mailto:i4rynw@gmail.com)
 * 🧠  I'm learning React.js & Next.js
 * 🤝  I'm open to collaborating on Web Projects
 
